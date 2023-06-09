@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/xinhuang.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/xinhuang.github.io/static/js/main.a70fc8d3.js",
+    "main.css": "/xinhuang.github.io/static/css/main.2b28152d.css",
+    "main.js": "/xinhuang.github.io/static/js/main.7db115ca.js",
     "static/js/787.4c5f4308.chunk.js": "/xinhuang.github.io/static/js/787.4c5f4308.chunk.js",
-    "static/media/logo.svg": "/xinhuang.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/me.jpg": "/xinhuang.github.io/static/media/me.4a6b34949258e8d5a97c.jpg",
     "index.html": "/xinhuang.github.io/index.html",
-    "main.073c9b0a.css.map": "/xinhuang.github.io/static/css/main.073c9b0a.css.map",
-    "main.a70fc8d3.js.map": "/xinhuang.github.io/static/js/main.a70fc8d3.js.map",
+    "main.2b28152d.css.map": "/xinhuang.github.io/static/css/main.2b28152d.css.map",
+    "main.7db115ca.js.map": "/xinhuang.github.io/static/js/main.7db115ca.js.map",
     "787.4c5f4308.chunk.js.map": "/xinhuang.github.io/static/js/787.4c5f4308.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a70fc8d3.js"
+    "static/css/main.2b28152d.css",
+    "static/js/main.7db115ca.js"
   ]
 }
