@@ -16,5 +16,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Xin Huang - x352huan@uwaterloo.ca
 
-Project Link: [https://github.com/heyome/personal-website](https://github.com/heyome/personal-website)
+Project Link: [http://heyome.github.io/xinhuang.github.io](http://heyome.github.io/xinhuang.github.io)
 
